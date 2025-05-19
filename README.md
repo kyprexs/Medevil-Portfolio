@@ -1,6 +1,18 @@
 # Medieval Portfolio Template
 
+## Screenshots
+
+### Home Page
 ![Home Page](screenshots/home.png)
+
+### About Page
+![About Page](screenshots/about.png)
+
+### Projects Page
+![Projects Page](screenshots/projects.png)
+
+### Skills Page
+![Skills Page](screenshots/skills.png)
 
 Welcome to the Medieval Portfolio Template! Easily customize your personal info, projects, skills, and social links.
 
@@ -33,24 +45,6 @@ Welcome to the Medieval Portfolio Template! Easily customize your personal info,
 ### 5. Edit Your Skills
 - Open `data/skills.ts`.
 - Add, remove, or edit skill categories and items. Each category can have a name, icon, and a list of skills.
-
-## Screenshots
-
-To help users see what the template looks like, you can add screenshots:
-- Place your screenshots in a `screenshots` folder in the project root.
-- Use descriptive names like `home.png`, `about.png`, `projects.png`, `skills.png`.
-
-### Home Page
-![Home Page](screenshots/home.png)
-
-### About Section
-![About Section](screenshots/about.png)
-
-### Projects Section
-![Projects Section](screenshots/projects.png)
-
-### Skills Section
-![Skills Section](screenshots/skills.png)
 
 ---
 

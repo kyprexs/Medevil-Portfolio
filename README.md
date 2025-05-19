@@ -40,11 +40,6 @@ To help users see what the template looks like, you can add screenshots:
 - Place your screenshots in a `screenshots` folder in the project root.
 - Use descriptive names like `home.png`, `about.png`, `projects.png`, `skills.png`.
 
-Example markdown for screenshots:
-
-```markdown
-## Screenshots
-
 ### Home Page
 ![Home Page](screenshots/home.png)
 
@@ -56,40 +51,6 @@ Example markdown for screenshots:
 
 ### Skills Section
 ![Skills Section](screenshots/skills.png)
-```
-
-## Example
-
-**data/user.ts**
-```ts
-export const user = {
-  name: "Jane Doe",
-  title: "The Code Alchemist",
-  bio: [
-    "I love building magical web experiences!",
-    "Check out my projects below."
-  ],
-  social: {
-    github: "https://github.com/janedoe",
-    linkedin: "https://linkedin.com/in/janedoe",
-    email: "jane@email.com"
-  }
-};
-```
-
-**data/projects.ts**
-```ts
-export const projects = [
-  {
-    title: "My Cool Project",
-    description: "A magical app for wizards.",
-    image: "/images/my-cool-project.jpg",
-    tags: ["React", "Next.js"],
-    liveUrl: "https://mycoolproject.com",
-    githubUrl: "https://github.com/janedoe/my-cool-project"
-  }
-];
-```
 
 ---
 

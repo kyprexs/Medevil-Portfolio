@@ -1,18 +1,6 @@
 # Medieval Portfolio Template
 
-## Screenshots
-
-### Home Page
 ![Home Page](screenshots/home.png)
-
-### About Page
-![About Page](screenshots/about.png)
-
-### Projects Page
-![Projects Page](screenshots/projects.png)
-
-### Skills Page
-![Skills Page](screenshots/skills.png)
 
 Welcome to the Medieval Portfolio Template! Easily customize your personal info, projects, skills, and social links.
 
@@ -47,5 +35,16 @@ Welcome to the Medieval Portfolio Template! Easily customize your personal info,
 - Add, remove, or edit skill categories and items. Each category can have a name, icon, and a list of skills.
 
 ---
+
+## More Screenshots
+
+### About Page
+![About Page](screenshots/about.png)
+
+### Projects Page
+![Projects Page](screenshots/projects.png)
+
+### Skills Page
+![Skills Page](screenshots/skills.png)
 
 Happy coding! 
